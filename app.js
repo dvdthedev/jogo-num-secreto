@@ -5,7 +5,7 @@
 //paragrafo.innerHTML = 'Escolha um número de 1 a 10'
 
 let numSorteados = []
-let quantidadeNumerosAleatorios = 11
+let quantidadeNumerosAleatorios = 13
 let numSecreto = gerarNumeroAleatorio(quantidadeNumerosAleatorios)
 tentativas = 1
 
